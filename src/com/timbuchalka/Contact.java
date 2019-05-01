@@ -2,6 +2,7 @@ package com.timbuchalka;
 
 /**
  * Created by dev on 28/08/15.
+ * Revised by Tim on 4th Feb 2018.
  */
 public class Contact {
     private String name;
